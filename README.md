@@ -9,3 +9,4 @@
 - [02 - 口袋算法](machine-learning/02-口袋算法)
 - [03 - 标准线性回归算法](machine-learning/03-标准线性回归算法)
 - [04 - 岭回归算法](machine-learning/04-岭回归算法)
+- [05 - Lasso回归算法](machine-learning/05-Lasso回归算法)
