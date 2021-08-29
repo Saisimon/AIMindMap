@@ -12,3 +12,4 @@
 - [05 - Lasso回归算法](machine-learning/05-Lasso回归算法)
 - [06 - 弹性网络回归算法](machine-learning/06-弹性网络回归算法)
 - [07 - 对数几率回归算法](machine-learning/07-对数几率回归算法)
+- [09 - 多分类对数几率回归算法](machine-learning/09-多分类对数几率回归算法)
