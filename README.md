@@ -14,3 +14,4 @@
 - [07 - 对数几率回归算法](machine-learning/07-对数几率回归算法)
 - [09 - 多分类对数几率回归算法](machine-learning/09-多分类对数几率回归算法)
 - [10 - 线性判别分析算法](machine-learning/10-线性判别分析算法)
+- [12 - 二次判别分析算法](machine-learning/12-二次判别分析算法)
