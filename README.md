@@ -16,3 +16,4 @@
 - [10 - 线性判别分析算法](machine-learning/10-线性判别分析算法)
 - [12 - 二次判别分析算法](machine-learning/12-二次判别分析算法)
 - [13 - 朴素贝叶斯分类算法](machine-learning/13-朴素贝叶斯分类算法)
+- [14 - 硬间隔支持向量机算法](machine-learning/14-硬间隔支持向量机算法)
