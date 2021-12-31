@@ -20,3 +20,4 @@
 - [15 - 软间隔支持向量机算法](machine-learning/15-软间隔支持向量机算法/软间隔支持向量机算法.ipynb)
 - [16 - 非线性支持向量机算法](machine-learning/16-非线性支持向量机算法/非线性支持向量机算法.ipynb)
 - [17 - 决策树学习算法](machine-learning/17-决策树学习算法/决策树学习算法.ipynb)
+- [18 - 随机森林算法](machine-learning/18-随机森林算法/随机森林算法.ipynb)
