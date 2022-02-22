@@ -22,3 +22,4 @@
 - [17 - 决策树学习算法](machine-learning/17-决策树学习算法/决策树学习算法.ipynb)
 - [18 - 随机森林算法](machine-learning/18-随机森林算法/随机森林算法.ipynb)
 - [19 - 自适应增强算法](machine-learning/19-自适应增强算法/自适应增强算法.ipynb)
+- [20 - 梯度提升树算法](machine-learning/20-梯度提升树算法/梯度提升树算法.ipynb)
