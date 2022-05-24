@@ -24,3 +24,4 @@
 - [19 - 自适应增强算法](machine-learning/19-自适应增强算法/自适应增强算法.ipynb)
 - [20 - 梯度提升树算法](machine-learning/20-梯度提升树算法/梯度提升树算法.ipynb)
 - [21 - k近邻算法](machine-learning/21-k近邻算法/k近邻算法.ipynb)
+- [22 - 近似k近邻算法 - Annoy](machine-learning/22-近似k近邻算法/Annoy.ipynb)
